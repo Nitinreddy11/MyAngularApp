@@ -1,0 +1,2 @@
+# MyAngularApp
+Angular noob code
